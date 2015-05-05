@@ -1,0 +1,10 @@
+1. Create HTML elements using $
+2. Add those as div.class to DOM
+3. Implement showImage use negative margin-left ( |A|-B-C-D)
+													A-|B|-C-D
+4. Implement nextImage -> indexCounter
+5. Connect to event listener or timer
+
+
+phonegap.com
+underscorejs
